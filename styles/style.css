@@ -145,7 +145,7 @@ main {
   margin-top: 16px;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--color-green)
 }
 
 /* Media queries */
